@@ -1,3 +1,5 @@
+soulteary/chatgpt
+soulteary/sparrow
 dockurr/windows
 emby/embyserver:4.8.0.56
 xiaoyaliu/alist
