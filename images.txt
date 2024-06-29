@@ -1,3 +1,4 @@
+emby/embyserver:4.8.0.56
 xiaoyaliu/alist
 yingge2017/kasmsudo:1.0
 kasmweb/kasmos-desktop:develop
