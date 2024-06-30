@@ -1,3 +1,4 @@
+xiaoyaliu/glue:latest
 ddsderek/xiaoya-emd
 soulteary/chatgpt
 soulteary/sparrow
