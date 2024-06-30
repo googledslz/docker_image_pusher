@@ -1,4 +1,5 @@
 xiaoyaliu/glue:latest
+
 ddsderek/xiaoya-emd
 soulteary/chatgpt
 soulteary/sparrow
@@ -6,7 +7,7 @@ dockurr/windows
 emby/embyserver:4.8.0.56
 xiaoyaliu/alist
 yingge2017/kasmsudo:1.0
-kasmweb/kasmos-desktop:develop
+
 portainer/portainer-ce
 ffdfgdfg/nps
 ffdfgdfg/npc
