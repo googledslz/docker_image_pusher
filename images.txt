@@ -1,3 +1,4 @@
+fifaty/autoupdateck:main
 xiaoyaliu/glue:latest
 ddsderek/xiaoya-emd
 
