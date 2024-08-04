@@ -1,3 +1,4 @@
+onething1/wxedge
 cloudflare/cloudflared
 haroldli/xiaoya-tvbox
 zhx47/jd_h5st_server:x64
