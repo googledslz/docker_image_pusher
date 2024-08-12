@@ -1,3 +1,4 @@
+yidadaa/chatgpt-next-web
 onething1/wxedge
 cloudflare/cloudflared
 haroldli/xiaoya-tvbox
