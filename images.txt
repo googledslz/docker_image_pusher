@@ -1,5 +1,7 @@
-msconli/elesign
-msconli/elm-xsign
+msconli/elesign:1.0.3
+
+msconli/elm-xsign:1.0.3
+jiangnanan/elesign:latest
 nolanhzy/pro
 yidadaa/chatgpt-next-web
 onething1/wxedge
