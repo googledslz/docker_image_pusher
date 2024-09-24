@@ -1,4 +1,4 @@
-dslz666/autojdck
+icepage/aujc:latest
 msconli/elesign:1.0.3
 
 msconli/elm-xsign:1.0.3
