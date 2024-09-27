@@ -1,3 +1,4 @@
+dslz666/dslz666_autojdck:20240927_1538
 dslz666/autojdck:latest
 icepage/aujc:latest
 msconli/elesign:1.0.3
