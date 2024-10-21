@@ -1,3 +1,4 @@
+dsmggm/autojdck
 dslz666/dslz666_autojdck:20240927_1538
 dslz666/autojdck:latest
 icepage/aujc:latest
