@@ -1,1 +1,2 @@
+icepage/aujc:latest
 dsmggm/autojdck:main
