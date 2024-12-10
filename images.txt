@@ -1,3 +1,4 @@
+yanyu.icu/smallfawn/lufly:latest
 dsmggm/autojdck:latest
 anmour/bncr
 gdy666/lucky
