@@ -1,12 +1,11 @@
-ht944/rabbitpro:12-17_17-07-20
-ht944/rabbitpro:12-25_09-26-37
+ht944/rabbitpro:12-25_09-11-50
 ht944/rabbitpro:latest
 
-yanyu.icu/containrrr/watchtower
+
 
 yanyu.icu/smallfawn/lufly:latest
 dsmggm/autojdck:latest
 anmour/bncr
 gdy666/lucky
 icepage/aujc:latest
-dsmggm/autojdck:main
+
