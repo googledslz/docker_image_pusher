@@ -1,4 +1,4 @@
-ht944/rabbitpro:12-30_17-09-57
+
 ht944/rabbitpro:latest
 
 
